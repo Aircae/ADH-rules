@@ -1,3 +1,4 @@
+! Title: 白名单
 @@||ad.10010.com^
 @@||alllaw.112.2o7.net^
 @@||citiintl.122.2o7.net^
@@ -21,11 +22,13 @@
 @@||click.appcast.io^
 @@||artifactory.appodeal.com^
 @@||app.appsflyer.com^
+@@||click.avs.io^
 @@||awin1.com^
 @@||email.awscloud.com^
 @@||js.monitor.azure.com^
 @@||captcha.su.baidu.com^
 @@||buyad.bi-xenon.cn^
+@@||rd.bizrate.com^
 @@||adv.bloop.info^
 @@||tms.capitalone.com^
 @@||cbsi.map.fastly.net^
@@ -43,6 +46,7 @@
 @@||admin.dable.io^
 @@||acs-m.daraz.com.bd^
 @@||cdn.datatables.net^
+@@||sbs.demdex.net^
 @@||media-consumer365.desigual.com^
 @@||refer.discover.com^
 @@||redirect.disqus.com^
@@ -63,7 +67,9 @@
 @@||public-cis.exponea.com^
 @@||gate.first-id.fr^
 @@||home.focusatwill.com^
+@@||smtp.focusgroupresearch.com^
 @@||login.gaijin.net^
+@@||tlh.gedidigital.it^
 @@||str.hit.gemius.pl^
 @@||links.getblueshift.com^
 @@||developers.google.com^
@@ -75,6 +81,7 @@
 @@||href.li^
 @@||id.i2i.jp^
 @@||marketing.net.idealo-partner.com^
+@@||content.ingbank.pl^
 @@||cmp.inmobi.com^
 @@||ia.hit.interia.pl^
 @@||www.jdoqocy.com^
@@ -98,11 +105,11 @@
 @@||mhc-ajax-eu-s2.myhomescreen.tv^
 @@||mhc-xpana-eu.myhomescreen.tv^
 @@||mhc-xpana-eu-s2.myhomescreen.tv^
-@@||myqqjd.com^
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
 @@||support-beacon.nakanohito.jp^
 @@||support-widget.nakanohito.jp^
+@@||get.neofinancial.com^
 @@||webstatic.nero.com^
 @@||infra-api.newrelic.com^
 @@||oneline.nextday.media^
@@ -146,6 +153,7 @@
 @@||static.softlayer.com^
 @@||gs.statcounter.com^
 @@||www.statcounter.com^
+@@||link.sylikes.com^
 @@||click.simba.taobao.com^
 @@||goto.target.com^
 @@||radiofrance.targetspot.com^
@@ -154,6 +162,7 @@
 @@||obituaries.therecord.com^
 @@||catchup.thisisdax.com^
 @@||click.trafficguard.ai^
+@@||ap01.records.in.treasuredata.com^
 @@||api.ads.tvb.com^
 @@||img.ads.tvb.com^
 @@||vcentry2.valuecommerce.ne.jp^
